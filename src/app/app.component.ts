@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { UsersDataService } from './services/users-data.service'
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,17 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'motel';
+  users:any;
+
+  constructor(private userData: UsersDataService){
+    this.userData.users().subscribe((data)=>{
+      console.log(data)
+    })
+  }
+
+  getFormData(data:any){
+    this.userData.postUsers(data).subscribe((data)=>{
+      console.log(data)
+    })
+  }
 }

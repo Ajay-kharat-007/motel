@@ -1,0 +1,171 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ajay Kharat",
+      "age": 20,
+      "phone": 8857822354,
+      "gender": "male",
+      "email": "kharatajay023@gmail.com",
+      "username": "ajay007",
+      "password": "Ajay#123"
+    },
+    {
+      "id": 2,
+      "name": "Tanaya Bagekar",
+      "age": 22,
+      "phone": 7499269640,
+      "gender": "female",
+      "email": "TanayaBagekar31@gmail.com",
+      "username": "Tanaya3112",
+      "password": "Tanaya@123"
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 15
+    },
+    {
+      "name": "",
+      "age": "",
+      "phone": "",
+      "gender": "",
+      "email": "",
+      "password": "",
+      "confirm password": "",
+      "id": 16
+    }
+  ]
+}
